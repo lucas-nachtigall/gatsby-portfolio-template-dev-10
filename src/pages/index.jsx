@@ -23,7 +23,7 @@ const HomePage = () => {
       <NavBar />
       <Header />
 
-      <section className={styles.aboutSection} id='about'>
+      <section className={styles.aboutSection} id='about DEVVVVVVV2'>
         <header className={styles.aboutHeader}>
           <Text tag='h2' color='secondary' variant='subtitle'>ABOUT</Text>
         </header>
