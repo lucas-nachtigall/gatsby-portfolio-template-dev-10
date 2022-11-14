@@ -25,7 +25,7 @@ const HomePage = () => {
 
       <section className={styles.aboutSection} id='about'>
         <header className={styles.aboutHeader}>
-          <Text tag='h2' color='secondary' variant='subtitle'>ABOUT</Text>
+          <Text tag='h2' color='secondary' variant='subtitle'>ABOUT MAIN</Text>
         </header>
         <div className={styles.aboutContent}>
           <StaticImage className={styles.aboutAvatar} src='../assets/images/yourname.png' alt='Your Name' objectFit='contain' />
